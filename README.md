@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hranaozkan@gmail.com**
 
-
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 
