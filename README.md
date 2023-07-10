@@ -4,7 +4,7 @@
 
 ## Hi, I'm Rana :blush:
 
-### Test Automation Engineer
+### A Software Test Engineer
 
 - 📫 How to reach me **hranaozkan@gmail.com**
 
