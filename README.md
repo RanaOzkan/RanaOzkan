@@ -21,13 +21,13 @@
 <code><a href="https://swagger.io/" target="_blank"><img width="40" height="40" src="https://avatars.githubusercontent.com/u/7658037?v=4&s=400"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
-<code><a href="https://www.jetbrains.com/idea/features/" target="_blank"><img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4cCfK2NyfXFNyCgBMb03C9GEZTNhH4_ABq8EOyVsuGDA27f3K"></a></code>
+<code><a href="https://www.jetbrains.com/idea/features/" target="_blank"><img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"></a></code>
 <code><a href="https://postman.com" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png"></a></code>
-<code><a target="_blank"><img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanNR9WhuZiDHUEN8AigTu_lHivn9cWRUcOStzMebFfVCR66c6djVeAXWznqcjY8K_GpM&usqp=CAU"></a></code>
-<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="50" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzEGvwnVFU5junQqrN5ICENyAYn3m1zizmu6EQNSA66EL6K88Bz0uo8VyC5FzJcGAgrY&usqp=CAU"></a></code>
+<code><a target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
+<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="50" height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
