@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<code><a href="https://www.java.com/" target="_blank"><img width="40" height="40" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiG7ysHPAzbkPXL922-czsbQn8he7izLzhRmkUdq9P_ZiGbwzF"></a></code>
+<code><a href="https://www.java.com/" target="_blank"><img width="40" height="40" src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png"></a></code>
 <code><a href="https://www.selenium.dev/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png"></a></code>
 <code><a href="https://testng.org/doc/" target="_blank"><img width="40" height="40" src="https://camo.githubusercontent.com/c2ee76a6a7c7a90255d20239a45e72a3cd9e13e865de3189cb16c473d2e356f0/68747470733a2f2f626c6f67732e70657266696369656e742e636f6d2f66696c65732f323031342f30382f546573744e472e706e67"></a></code>
 <code><a href="https://cucumber.io/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"></a></code>
