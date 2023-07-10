@@ -8,9 +8,6 @@
 
 - 📫 How to reach me **hranaozkan@gmail.com**
 
-<br />
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 
 <code><a href="https://www.java.com/" target="_blank"><img width="40" height="40" src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png"></a></code>
