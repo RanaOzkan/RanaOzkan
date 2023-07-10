@@ -26,18 +26,8 @@
 <code><a target="_blank"><img width="40" height="40" src="https://www.ecobit.nl/portal-content-website/koppelingen/jira%20software.png"></a></code>
 <code><a href="https://postman.com" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png"></a></code>
-<code><a target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-
-[vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/
-[selenium]: https://www.selenium.dev/
-[sql]: https://www.w3schools.com/sql/
-[html]: https://www.w3schools.com/html/
-[github]: https://github.com/RanaOzkan
-[cucumber]: https://cucumber.io/
-[intellij]: https://www.jetbrains.com/idea/download/#section=windows
-[testng]: https://testng.org/doc/
+<code><a target="_blank"><img width="45" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="45" height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
