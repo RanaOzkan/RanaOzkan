@@ -18,7 +18,7 @@
 <code><a href="https://testng.org/doc/" target="_blank"><img width="40" height="40" src="https://camo.githubusercontent.com/c2ee76a6a7c7a90255d20239a45e72a3cd9e13e865de3189cb16c473d2e356f0/68747470733a2f2f626c6f67732e70657266696369656e742e636f6d2f66696c65732f323031342f30382f546573744e472e706e67"></a></code>
 <code><a href="https://cucumber.io/" target="_blank"><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"></a></code>
 <code><a href="https://www.api.com" target="_blank"><img width="40" height="40" src="https://www.kindpng.com/picc/m/18-187491_api-transparent-logo-hd-png-download.png"></a></code>
-<code><a href="https://swagger.io/" target="_blank"><img width="40" height="40" src="https://avatars.githubusercontent.com/u/7658037?v=4&s=400"></a></code>
+<code><a href="https://swagger.io/" target="_blank"><img width="40" height="40" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a></code>
 <code><a href="https://www.jetbrains.com/idea/features/" target="_blank"><img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg"></a></code>
