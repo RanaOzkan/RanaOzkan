@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RanaOzkan&color=green)
 
-## Hi, I'm Rana. :blush:
+## Hi, I'm Rana :blush:
 
 ### Test Automation Engineer
 
