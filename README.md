@@ -25,9 +25,9 @@
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg"></a></code>
 <code><a href="https://postman.com" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code>
-<code><a target="_blank"><img width="40" height="40" src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png"></a></code>
+<code><a target="_blank"><img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></a></code>
 <code><a target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="50" height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="https://github.com/RanaOzkan" target="_blank"><img width="55" height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
